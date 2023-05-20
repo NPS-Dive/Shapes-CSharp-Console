@@ -1,0 +1,7 @@
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Triangles\Triangles\bin\Debug\Triangles.exe
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Triangles\Triangles\bin\Debug\Triangles.pdb
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Triangles\Triangles\obj\Debug\Triangles.csproj.AssemblyReference.cache
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Triangles\Triangles\obj\Debug\Triangles.csproj.SuggestedBindingRedirects.cache
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Triangles\Triangles\obj\Debug\Triangles.csproj.CoreCompileInputs.cache
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Triangles\Triangles\obj\Debug\Triangles.exe
+E:\Computer\DotNet\C#\C#\Console C#\C#ConsolePractice02\Triangles\Triangles\obj\Debug\Triangles.pdb
